@@ -46,8 +46,8 @@
 									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/Sources/Config&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/Sources/GD3000&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/Sources/Peripherals&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;C:\NXP\S32DS_ARM_v2.2\S32DS\software\AMMCLIB_v1.1.20\S32K14x_AMMCLIB_v1.1.20\include&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;C:\NXP\S32DS_ARM_v2.2\S32DS\software\AMMCLIB_v1.1.20\S32K14x_AMMCLIB_v1.1.20\SWLIBS_Config&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/S32K14x_AMMCLIB_v1.1.20/include}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/S32K14x_AMMCLIB_v1.1.20/SWLIBS_Config}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/SDK/rtos/osif/&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${ProjDirPath}/SDK/platform/drivers/src/ftm&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/FreeMASTER_Serial_Communication_Driver_V2_0/src_common}&quot;"/>
@@ -113,7 +113,7 @@
 									<listOptionValue builtIn="false" value=":S32K14x_AMMCLIB.a"/>
 								</option>
 								<option id="gnu.c.link.option.paths.225172852" name="Library search path (-L)" superClass="gnu.c.link.option.paths" useByScannerDiscovery="false" valueType="libPaths">
-									<listOptionValue builtIn="false" value="&quot;C:\NXP\S32DS_ARM_v2.2\S32DS\software\AMMCLIB_v1.1.20\S32K14x_AMMCLIB_v1.1.20\lib\s32ds_arm32&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/S32K14x_AMMCLIB_v1.1.20/lib/s32ds_arm32}&quot;"/>
 								</option>
 								<inputType id="com.freescale.s32ds.cross.gnu.tool.c.linker.inputType.scriptfile.1406028156" superClass="com.freescale.s32ds.cross.gnu.tool.c.linker.inputType.scriptfile"/>
 							</tool>
