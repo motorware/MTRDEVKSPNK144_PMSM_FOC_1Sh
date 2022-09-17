@@ -1,0 +1,3 @@
+[submodule "FreeMASTER_Serial_Communication_Driver_V2_0"]
+	path = FreeMASTER_Serial_Communication_Driver_V2_0
+	url = git@github.com:motorware/FreeMASTER_Serial_Communication_Driver_V2_0.git
